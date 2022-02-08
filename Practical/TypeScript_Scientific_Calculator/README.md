@@ -1,0 +1,2 @@
+TypeScript Practical : TypeScript_Scientific_Calculator
+In this practical JavaScript_Scientific_Calculator is converted into TypeScript_Scientific_Calculator.
